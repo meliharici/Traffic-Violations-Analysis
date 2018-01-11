@@ -1,4 +1,4 @@
-# Traffic-Violations-Analysis
+# Traffic Violations Analysis using Apache Spark
 
 Analyzing traffic violations data using Apache Spark's MLlib. 
 
